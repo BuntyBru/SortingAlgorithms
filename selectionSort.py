@@ -21,5 +21,6 @@ def selectionSort(arr):
 
 arr = [54,118,26,93,17,77,31,44,55,20]
 arr2 = [26,54,93,17,77,31,44,55,20]
-selectionSort(arr2)
-print(arr2)
+arr3 = [11, 7, 12, 14, 19, 1, 6, 18, 8, 20] 
+selectionSort(arr3)
+print(arr3)
